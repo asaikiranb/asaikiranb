@@ -19,42 +19,10 @@ I'm a **Master's student in Data Science at the University of Washington**, curr
 - 🎓 **Master's in Data Science – University of Washington**  
 - 💼 **Product Data Scientist at Contextual AI**  
 - 📊 **Expert in Experimentation, Causal Inference & Product Analytics**  
-- 🤖 **Building ML systems that work in production**  
-- 📈 **Track record: 32% variance reduction, 25% drop in false positives, 7% sales lift**
+- 🤖 **Building ML systems that work in production**
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600">
-</p>
-
----
-
-## 💼 **Work Experience**
-
-🔬 **Contextual AI** – Product Data Scientist (Sep 2025 - Present)  
-  - Defined search success metrics for multimodal RAG tool, reducing decision time by 2.5 hrs/week per technician
-
-📡 **Viasat** – Product Data Scientist Intern (Jun 2025 - Sep 2025)  
-  - Built customer-level QoE score from network telemetry using regression and cohort analysis  
-  - Ran A/B experiments with power analysis and MDE to inform product strategy
-
-🎓 **University of Washington** – Data Analyst (Sep 2024 - Jun 2025)  
-  - Improved targeting efficiency by 21% using difference-in-differences analysis  
-  - Reallocated $1.2M in budget using marketing mix modeling, driving 7% sales lift
-
-💡 **Deloitte Consulting** – Product Data Scientist (Dec 2023 - Sep 2024)  
-  - Applied CUPED variance reduction to pricing experiments, reducing estimator variance by 32%  
-  - Developed earnings call risk scoring using Longformer embeddings, reducing forecast RMSE by 18%
-
-🏥 **HealthEdge Technologies** – Product Data Scientist (Feb 2023 - Dec 2023)  
-  - Monitored real-time fraud risk signals with p95 latency under 150ms  
-  - Reduced false positive alerts by 25% through model monitoring with PSI and KS drift tests
-
-🎯 **iNeuron.ai** – Product Analyst Intern (Jun 2022 - Sep 2022)  
-  - Lifted MAU by 13% through UX A/B experiments on onboarding flows  
-  - Drove 8% revenue lift by identifying pricing gaps in flagship courses
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaikiranb&theme=github_dark" />
 </p>
 
 ---
