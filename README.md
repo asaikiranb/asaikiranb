@@ -17,7 +17,7 @@
 I'm a **Master's student in Data Science at the University of Washington**, currently building multimodal RAG systems at **Contextual AI**. My expertise spans **A/B testing, causal inference, machine learning, and product analytics**, focusing on creating data-driven solutions that deliver measurable business impact.
 
 - 🎓 **Master's in Data Science – University of Washington**  
-- 💼 **Product Data Scientist at Contextual AI**  
+- 💼 **Data Scientist, Product (Capstone) at Contextual AI**  
 - 📊 **Expert in Experimentation, Causal Inference & Product Analytics**  
 - 🤖 **Building ML systems that work in production**
 
