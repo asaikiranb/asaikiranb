@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/saikiran">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:asaikiranb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/asaikiranb">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -78,37 +78,12 @@ I value methodological rigor, clear communication, and decisions grounded in evi
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
-### Databases and visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-
-### Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-</p>
-
 ---
 
-## 📊 GitHub analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaikiranb&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asaikiranb&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaikiranb&theme=tokyonight&utcOffset=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asaikiranb&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asaikiranb&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -131,16 +106,6 @@ https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_i
 
 ---
 
-## 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake.svg" />
-</picture>
-
----
-
 <p align="center">
-  <i>Currently open to roles where experimentation, causal inference, and product analytics drive real decisions.</i>
+  <i>Open to roles where experimentation, causal inference, and product analytics drive real decisions.</i>
 </p>
