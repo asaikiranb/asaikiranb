@@ -3,7 +3,7 @@
 <p align="center">
   <b>Product Data Scientist</b> · Experimentation · Causal Inference · Product Analytics · ML Systems
   <br/>
-  I build decision systems that survive contact with reality.
+  Turning data into decisions that ship.
 </p>
 
 <p align="center">
@@ -24,17 +24,19 @@
 
 ---
 
-## 👋 About (the version a hiring manager actually reads)
+## 👋 About
 
-I am a Master's student in Data Science at the University of Washington, currently building multimodal RAG systems at Contextual AI.
+I am a Master’s student in Data Science at the University of Washington, currently building multimodal RAG systems at Contextual AI.
 
-My lane is product decision making under uncertainty:
-- I design experiments that change what teams build next
-- I use causal inference when A/B tests are not possible, or not enough
-- I build ML systems that ship, get monitored, and keep working
+My work sits at the intersection of experimentation, causal inference, and production machine learning.
 
-I care about rigor, but I care more about impact.
-If a metric moves and nobody trusts the method, it did not move.
+I focus on:
+- Designing experiments that inform product strategy  
+- Applying causal methods when randomized testing is insufficient  
+- Building ML systems that are deployed, monitored, and trusted  
+- Defining metrics that reflect durable business value  
+
+I value methodological rigor, clear communication, and decisions grounded in evidence.
 
 ---
 
@@ -46,7 +48,7 @@ If a metric moves and nobody trusts the method, it did not move.
 
 ---
 
-## 🧰 Toolbox (badges stay)
+## 🧰 Toolbox
 
 ### Languages and core tools
 <p align="center">
@@ -93,13 +95,7 @@ If a metric moves and nobody trusts the method, it did not move.
 
 ---
 
-## 📊 Analytics (reliable set, senior look)
-
-<!--
-Why this set:
-- github-readme-stats public endpoint is best-effort and sometimes breaks due to rate limits
-- summary cards are stable and look clean
--->
+## 📊 GitHub analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaikiranb&theme=tokyonight" />
@@ -135,7 +131,7 @@ https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_i
 
 ---
 
-## 🐍 Contribution snake (only works if the workflow generated these files)
+## 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake-dark.svg" />
