@@ -1,134 +1,150 @@
 <h1 align="center">Saikiran Babu Annangi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Product+Data+Scientist;Experimentation+%7C+Causal+Inference+%7C+ML+Systems;Turning+Data+into+Decisions+that+Ship" />
+  <b>Product Data Scientist</b> · Experimentation · Causal Inference · Product Analytics · ML Systems
+  <br/>
+  I build decision systems that survive contact with reality.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=10EBF7&center=true&vCenter=true&width=900&lines=Experimentation+that+changes+roadmaps;Causal+inference+that+holds+up+in+reviews;ML+systems+that+ship+and+stay+healthy" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/saikiran">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:asaikiranb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/asaikiranb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About (the version a hiring manager actually reads)
 
-🎓 Master’s in Data Science, University of Washington  
-💼 Building multimodal RAG systems at Contextual AI  
-📊 Focused on experimentation, causal inference, and production ML  
+I am a Master's student in Data Science at the University of Washington, currently building multimodal RAG systems at Contextual AI.
 
-I design experiments that influence roadmap decisions.  
-I build ML systems that ship to production.  
-I create metrics tied directly to business impact.
+My lane is product decision making under uncertainty:
+- I design experiments that change what teams build next
+- I use causal inference when A/B tests are not possible, or not enough
+- I build ML systems that ship, get monitored, and keep working
 
-If it does not ship, it does not count.
-
----
-
-## 🧠 Core Focus
-
-### 📊 Experimentation
-A/B Testing · CUPED · Sequential Testing · Difference in Differences · Panel Regression  
-
-### 🔬 Causal Inference
-Counterfactual Modeling · Survival Analysis · Policy Evaluation  
-
-### 🤖 Machine Learning
-Time Series · NLP · Deep Learning · Production ML  
-
-### 📈 Product Analytics
-Metric Design · Funnel Analysis · Cohort Retention · CLV · MMM  
-
-### ⚙️ ML Systems
-Monitoring · Drift Detection · Real Time Scoring · Feature Engineering  
+I care about rigor, but I care more about impact.
+If a metric moves and nobody trusts the method, it did not move.
 
 ---
 
-# 🛠 Tech Stack
+## 🧭 Signature strengths
 
-### 💻 Languages
+| 🧪 Experimentation | 🔍 Causal inference | 📈 Product analytics | 🤖 ML systems |
+|---|---|---|---|
+| A/B testing, CUPED, sequential, guardrails | DiD, panel models, survival, counterfactuals | metrics, funnels, cohorts, CLV, MMM | monitoring, drift, pipelines, production scoring |
 
+---
+
+## 🧰 Toolbox (badges stay)
+
+### Languages and core tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/R-1E293B?style=for-the-badge&logo=r&logoColor=276DC3"/>
-  <img src="https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-07405e?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### ML and AI
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Cloud and data platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+### Databases and visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+### Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 ML and AI
+## 📊 Analytics (reliable set, senior look)
+
+<!--
+Why this set:
+- github-readme-stats public endpoint is best-effort and sometimes breaks due to rate limits
+- summary cards are stable and look clean
+-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/MLflow-0F172A?style=for-the-badge&logo=mlflow&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/SHAP-1E293B?style=for-the-badge&logo=python&logoColor=FF6F61"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaikiranb&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asaikiranb&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaikiranb&theme=tokyonight&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asaikiranb&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asaikiranb&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asaikiranb&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaikiranb&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### ☁️ Cloud and Data Platforms
+## 📚 Publications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Azure-1E293B?style=for-the-badge&logo=microsoftazure&logoColor=0072C6"/>
-  <img src="https://img.shields.io/badge/GCP-0F172A?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
-  <img src="https://img.shields.io/badge/Databricks-1E293B?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
-  <img src="https://img.shields.io/badge/Snowflake-0F172A?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
-  <img src="https://img.shields.io/badge/Spark-1E293B?style=for-the-badge&logo=apache-spark&logoColor=E25A1C"/>
-</p>
+1) **NeuroPredict: A Comprehensive Approach for Alzheimer's Disease Prediction and Development of a Medical Assisting Kit** (IEEE, 2024)  
+https://ieeexplore.ieee.org/document/10419914
+
+2) **API Driven Framework for AES Modes of Encryption Enhanced with Machine Learning** (IRJMETS, 2023)  
+https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_irjmets1689856261.pdf
 
 ---
 
-# 📊 GitHub Analytics
+## 🐍 Contribution snake (only works if the workflow generated these files)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asaikiranb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaikiranb&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaikiranb&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaikiranb&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Featured Work
-
-### 🧠 NeuroPredict | IEEE 2024  
-ML framework for early Alzheimer’s prediction  
-https://ieeexplore.ieee.org/document/10419914  
-
-### 🔐 API Driven AES Framework | IRJMETS 2023  
-Encryption framework enhanced with machine learning  
-https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_irjmets1689856261.pdf  
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake-dark.svg"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asaikiranb/asaikiranb/output/github-snake.svg" />
+</picture>
 
 ---
 
 <p align="center">
-  <b>Open to Product Data Science and Experimentation roles</b>
+  <i>Currently open to roles where experimentation, causal inference, and product analytics drive real decisions.</i>
 </p>
