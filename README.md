@@ -1,7 +1,7 @@
 <h1 align="center">Saikiran Babu Annangi</h1>
 
 <p align="center">
-  <strong>Product Data Scientist</strong> · Experimentation & Causal Inference · Product Analytics · ML Systems
+  <strong>Product Data Scientist</strong> · Experimentation · Causal Inference · Product Analytics · ML Systems
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/annangisaikiranbabu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:asaikiranb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/asaikiranb">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,8 +24,7 @@
 
 ## 👋 About
 
-I am a Product Data Scientist focused on experimentation, causal inference, and building ML systems that deliver measurable outcomes.  
-I currently pursue a Master’s in Data Science at the University of Washington while building multimodal RAG systems at Contextual AI.
+I am a Product Data Scientist focused on experimentation, causal inference, and building ML systems that deliver measurable outcomes.
 
 I help teams make confident decisions by:
 - Designing and analyzing experiments with high integrity  
@@ -33,16 +32,16 @@ I help teams make confident decisions by:
 - Building ML systems that are deployable, monitored, and interpretable  
 - Defining metrics with clear business relevance  
 
-I value clarity, rigor, and impact.
+My work emphasizes methodological rigor, clarity in communication, and durable business impact.
 
 ---
 
-## 🧠 Areas of Expertise
+## 🧭 Signature Strengths
 
-| Experimentation | Causal Inference | Product Analytics | ML Systems |
+| 🧪 Experimentation | 🔍 Causal Inference | 📈 Product Analytics | 🤖 ML Systems |
 |---|---|---|---|
-| A/B Testing · CUPED · Sequential Testing | DiD · Panel Models · Counterfactuals | Metric Design · Funnels · Cohorts · CLV | Monitoring · Drift Detection · Real-time Scoring |
-| Guardrails · Test Validity | Survival Analysis | MMM · Retention Analytics | Feature Engineering |
+| A/B testing · CUPED · Sequential methods | DiD · Panel models · Survival analysis | Metric design · Funnels · Cohorts · CLV | Monitoring · Drift detection · Production scoring |
+| Guardrails · Validity · Power analysis | Counterfactual reasoning | MMM · Retention analytics | Feature engineering |
 
 ---
 
@@ -55,6 +54,7 @@ I value clarity, rigor, and impact.
   <img src="https://img.shields.io/badge/SQL-07405e?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ### 🤖 Machine Learning & Analytics
@@ -67,7 +67,7 @@ I value clarity, rigor, and impact.
   <img src="https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### ☁️ Platforms & Cloud
+### ☁️ Cloud & Data Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -99,10 +99,10 @@ I value clarity, rigor, and impact.
 ## 📚 Publications
 
 1) **NeuroPredict: A Comprehensive Approach for Alzheimer's Disease Prediction and Development of a Medical Assisting Kit** — IEEE Conference, 2024  
-https://ieeexplore.ieee.org/document/10419914
+https://ieeexplore.ieee.org/document/10419914  
 
 2) **API Driven Framework for AES Modes of Encryption Enhanced with Machine Learning** — IRJMETS, 2023  
-https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_irjmets1689856261.pdf
+https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_irjmets1689856261.pdf  
 
 ---
 
