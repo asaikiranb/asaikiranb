@@ -107,5 +107,5 @@ https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43316/final/fin_i
 ---
 
 <p align="center">
-  <i>Open to Product Data Science and Experimentation roles</i>
+  <i>Open to Product and Data roles</i>
 </p>
